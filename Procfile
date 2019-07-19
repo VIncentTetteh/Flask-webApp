@@ -1,1 +1,1 @@
-web: python home.py --logfile=-
+web: python home.py --log-file -
